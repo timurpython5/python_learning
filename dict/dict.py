@@ -9,6 +9,6 @@ additional_person_info = {
     "city": "London"
 }
 
-person = person | additional_person_info
+person = person | a
 
 print(person)
